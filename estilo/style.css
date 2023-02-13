@@ -99,7 +99,7 @@ h2 {
 
  @font-face {
     font-family: 'idroid';
-    src: url(fontes/idroid.otf);
+    src: url(../fontes/idroid.otf);
     font-weight: normal;
     font-style: normal;
  }
