@@ -70,6 +70,11 @@ main > p {
     text-align: justify;
 }
 
+.negrito {
+    background-color: #67eaa691;
+    color: #30b35c;
+}
+
 .box {
     margin: auto;
     text-align: left;
